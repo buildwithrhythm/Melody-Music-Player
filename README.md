@@ -1,5 +1,7 @@
 # Melody-Music-Player
-Melody Music Player is a beautifully designed, lightweight, and user-friendly Android music player app built using Python. 
+Melody Music Player is a sleek, minimal, and fully functional Python-based music player designed for desktop users. Built using Tkinter for the GUI and Pygame (mixer) for audio playback, it offers a smooth offline music experience with all essential features wrapped in a user-friendly interface. 
+
+---
 
 # 🚀 Features
 
@@ -14,3 +16,19 @@ Melody Music Player is a beautifully designed, lightweight, and user-friendly An
 🎨 Elegant and responsive user interface
 
 🔊 Background playback support
+
+---
+# 🛠️ Tech Stack
+Language: Python
+
+GUI Library: Tkinter
+
+Audio Engine: Pygame (mixer)
+
+Platform: Cross-platform (Windows/Linux/macOS)
+
+---
+# 📸 Screenshots
+
+---
+
