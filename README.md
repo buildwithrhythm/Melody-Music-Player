@@ -29,6 +29,7 @@ Platform: Cross-platform (Windows/Linux/macOS)
 
 ---
 # 📸 Screenshots
+![Music Player UI](media/Melody Music Player.png)
 
 ---
 
